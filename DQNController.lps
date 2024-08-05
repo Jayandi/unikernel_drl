@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="DQNController.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="145"/>
+        <CursorPos X="41" Y="164"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitnetworks.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitNetworks"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="24" Y="23"/>
+        <UsageCount Value="108"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitvars.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitVars"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="15" Y="28"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitdcdc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitDCDC"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="24" Y="115"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitpvarray.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitPVArray"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="30" Y="9"/>
+        <UsageCount Value="108"/>
+      </Unit>
+      <Unit>
+        <Filename Value="noe.neuralnet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="128"/>
+        <CursorPos Y="163"/>
+        <UsageCount Value="106"/>
+      </Unit>
+      <Unit>
+        <Filename Value="multiarray.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="703"/>
+        <CursorPos Y="723"/>
+        <UsageCount Value="106"/>
+      </Unit>
+      <Unit>
+        <Filename Value="noe.optimizer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="106"/>
+      </Unit>
+      <Unit>
+        <Filename Value="numerik.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="44"/>
+        <CursorPos X="10" Y="63"/>
+        <UsageCount Value="106"/>
+      </Unit>
+      <Unit>
+        <Filename Value="noe.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="523"/>
+        <CursorPos Y="542"/>
+        <UsageCount Value="106"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\Ultibo\projects\NeuralNetwork\numerik-master\pkg\numerik.source.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="17" Y="15"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Ultibo\Core\fpc\3.2.2\source\rtl\inc\system.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="625"/>
+        <CursorPos X="10" Y="644"/>
+        <UsageCount Value="11"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="114" Column="30" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="105" Column="29" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="108" Column="12" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="112" Column="21" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="108" Column="22" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="93" Column="30" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="118" Column="23" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="108" Column="11" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="120" Column="26" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="120" Column="30" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="120" Column="31" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="123" Column="32" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="unitvars.pas"/>
+        <Caret Line="11" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="123" Column="34" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="unitvars.pas"/>
+        <Caret Line="11" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="123" Column="18" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="130" Column="54" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="unitdcdc.pas"/>
+        <Caret Line="25" Column="26" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="118" Column="5" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="134" Column="22" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="unitdcdc.pas"/>
+        <Caret Line="33" Column="17" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="unitdcdc.pas"/>
+        <Caret Line="53" Column="13" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="152" Column="44" TopLine="132"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="98" Column="20" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="152" Column="36" TopLine="133"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="155" Column="60" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="154" Column="43" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="165" Column="48" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="DQNController.lpr"/>
+        <Caret Line="97" TopLine="79"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
